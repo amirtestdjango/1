@@ -43,3 +43,8 @@ a{
     font-family: 'BF';
     src: url(/assets/back.jpg) format("ttf");
 }
+
+button{
+    margin:0px;
+    padding:0px;
+}
